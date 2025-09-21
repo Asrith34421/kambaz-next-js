@@ -13,7 +13,7 @@ export default function KambazHome() {
       <ul>
         <li>
           <Link href="/Kambaz/Account" id="wd-account-link">
-            Account Management
+            Account
           </Link>
         </li>
         <li>
@@ -41,7 +41,7 @@ export default function KambazHome() {
           </a>
         </li>
         <li>
-          <a href="https://github.com/your-username/kambaz-nextjs" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Asrith34421/kambaz-next-js.git" target="_blank" rel="noopener noreferrer">
             Source Code Repository
           </a>
         </li>

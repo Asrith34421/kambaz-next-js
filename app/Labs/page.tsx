@@ -22,7 +22,7 @@ export default function LabsLandingPage() {
         <h2>🔗 GitHub Repository</h2>
         <p>
           <a
-            href="https://github.com/your-username/kambaz-next-js"
+            href="https://github.com/Asrith34421/kambaz-next-js"
             target="_blank"
             rel="noopener noreferrer"
             id="wd-github"
@@ -36,7 +36,7 @@ export default function LabsLandingPage() {
         <h2>🚀 Live Deployment</h2>
         <p>
           <a
-            href="https://kambaz-next-js.vercel.app"
+            href="https://kambaz-next-js-nine-lac.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
