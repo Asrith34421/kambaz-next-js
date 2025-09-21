@@ -14,12 +14,12 @@ export default function LabsLandingPage() {
       </section>
 
       <section>
-        <h2>📚 Table of Contents</h2>
+        <h2> Table of Contents</h2>
         <TOC />
       </section>
 
       <section>
-        <h2>🔗 GitHub Repository</h2>
+        <h2> GitHub Repository</h2>
         <p>
           <a
             href="https://github.com/Asrith34421/kambaz-next-js"
@@ -33,7 +33,7 @@ export default function LabsLandingPage() {
       </section>
 
       <section>
-        <h2>🚀 Live Deployment</h2>
+        <h2> Live Deployment</h2>
         <p>
           <a
             href="https://kambaz-next-js-nine-lac.vercel.app/"
