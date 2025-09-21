@@ -8,7 +8,7 @@ export default function LabsLandingPage() {
       <hr />
 
       <section>
-        <h2>👤 Student Information</h2>
+        <h2> Student Information</h2>
         <p><strong>Name:</strong>  [Bala Asrith Chavala]</p>
         <p><strong>Section:</strong> [CSE CORE]</p>
       </section>
