@@ -64,18 +64,18 @@ export default function Modules() {
           </ul>
         </li>
 
-        {/* {understanding purpose} */}
+        
 
         {/* Week 2 */}
         <li className="wd-module">
           <h3>Week 2</h3>
-          {/* Add content later */}
+          
         </li>
 
         {/* Week 3 */}
         <li className="wd-module">
           <h3>Week 3</h3>
-          {/* Add content later */}
+          
         </li>
       </ul>
     </div>

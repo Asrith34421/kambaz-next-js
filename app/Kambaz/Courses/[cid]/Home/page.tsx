@@ -1,7 +1,5 @@
-
 import Modules from "../Modules/page";
 import CourseStatus from "./Status";
-
 
 export default function CourseHome({ params }: { params: { cid: string } }) {
   const { cid } = params;
@@ -9,18 +7,17 @@ export default function CourseHome({ params }: { params: { cid: string } }) {
   return (
     <div id="wd-course-home">
       <h2>Course Home: {cid}</h2>
-      <table width="100%">
+      <table>
         <tbody>
           <tr>
-            <td valign="top" width="70%">
+            <td valign="top" width="75%">
               <Modules />
             </td>
-            <td valign="top" width="30%">
+            <td valign="top" width="25%">
               <CourseStatus />
             </td>
           </tr>
         </tbody>
       </table>
     </div>
-  );
-}
+  );}
